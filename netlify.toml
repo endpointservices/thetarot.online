@@ -1,4 +1,4 @@
 [[redirects]]
   status = 200
   from = "*"
-  to = "https://storage.googleapis.com/larkworthy-dfb11.appspot.com/%40tomlarkworthy/tarot-backend/pages:splat"
+  to = "https://storage.googleapis.com/larkworthy-dfb11.appspot.com/%40tomlarkworthy/tarot-backend/pages/:splat"
