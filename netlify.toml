@@ -1,4 +1,9 @@
 [[redirects]]
+  from = ""
+  to = "/index.html"
+
+
+[[redirects]]
   status = 200
-  from = "*"
+  from = "/*"
   to = "https://storage.googleapis.com/larkworthy-dfb11.appspot.com/%40tomlarkworthy/tarot-backend/pages/:splat"
