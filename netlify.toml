@@ -1,9 +1,7 @@
-[[redirects]]
-  from = "/"
-  to = "/index.html"
-
-
+# thetarot.online is now a single self-contained lopecode notebook hosted on GitHub Pages.
+# status = 200 proxies rather than redirects, so the vanity domain stays in the address bar --
+# the app builds its share links from location.origin + location.pathname.
 [[redirects]]
   status = 200
   from = "/*"
-  to = "https://storage.googleapis.com/larkworthy-dfb11.appspot.com/%40tomlarkworthy/tarot-backend/pages/:splat"
+  to = "https://tomlarkworthy.github.io/lopebooks/notebooks/%40tomlarkworthy_tarot.html"
